@@ -1,0 +1,1 @@
+After downloading testdata, modify the file paths in the program; each file can be run independently. The MATLAB file is used to generate test data and evaluate the processing results, while the Python program is used to process the point cloud data.
